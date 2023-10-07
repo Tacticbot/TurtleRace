@@ -27,7 +27,7 @@ def clear():
     tim.penup()
     tim.home()
     tim.pendown()
-2
+
 
 screen.listen()
 screen.onkey(move_forward, "w")
